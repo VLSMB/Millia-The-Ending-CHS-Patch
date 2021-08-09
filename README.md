@@ -1,5 +1,6 @@
 # Millia-The-Ending-CHS-Patch
 基于Steam上的Millia -The Ending- 汉化补丁
+
 A Chinese Patch for "Millia - The Ending -" on Steam.
 
 汉化补丁使用方法：
@@ -8,9 +9,11 @@ A Chinese Patch for "Millia - The Ending -" on Steam.
 本汉化补丁需要放在游戏程序本体的目录中运行，如果你不知道游戏目录，本汉化补丁可以在游戏运行时搜索目录，但最好自行找到目录（在Win7x64位中如果有*32程序正在运行会无法找到）。
 
 本游戏最终解释权归Millia Soft所有，本补丁由超巨星汉化组发布，仅供学习交流。禁止任何组织任何个人用于任何商业用途，任何商业用途与本汉化组没有任何关系，本汉化组不承担任何因商业问题而带来的麻烦。
+
 Millia soft reserves the final right to interpret the game. This patch is released by the CJX Chinese Translation Group for learning and communication only. It is prohibited for any organization or individual to use for any commercial purpose. Any commercial purpose has nothing to do with the CJX Chinese Translation Group, and CJX Chinese Translation Group won't bear any trouble caused by commercial problems.
 
 本汉化补丁程序由Python编写，源码仅供学习交流，同样不得用于商业用途（包括附带的游戏相关文档）。
+
 This Chinese Patch Software is designed by Python,the code is only for learning and communication, and mustn't be used for commercial purposes.(including the related documents)
 
 游戏地址：
